@@ -2,7 +2,7 @@
 name = "pilkki"
 description = "Flasher tool for Kampela project"
 license = "GPL-3.0-or-later"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Alexander Slesarev <slesarew@gmail.com>", "Vera Abramova <abramova.vera@gmail.com>"]
 edition = "2021"
 repository = "https://github.com/Kalapaja/pilkki"
