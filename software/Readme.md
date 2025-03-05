@@ -47,7 +47,7 @@ cargo run -- write --input /path/to/your/binary.bin
 ```
 Or, if you need to specify the port manually:
 ```sh
-cargo run -- write --port /port/address --input /path/to/your/binary.bin
+cargo run -- --port /port/address write --input /path/to/your/binary.bin
 ```
 
 ### Getting the Firmware Binary
